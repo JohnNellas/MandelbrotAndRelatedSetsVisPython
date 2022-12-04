@@ -1,6 +1,6 @@
 # Mandelbrot and Related Sets Visualization in Python
 A python script for visualizing the Mandelbrot and related sets of the form z^(deg) + c. 
-More information about the Mandelbrot set can be found [here](https://en.wikipedia.org/wiki/Mandelbrot_set)
+More information about the Mandelbrot set can be found [here](https://en.wikipedia.org/wiki/Mandelbrot_set).
 
 <img src="./readme_contents/produced_set.jpg" width="450">
 
